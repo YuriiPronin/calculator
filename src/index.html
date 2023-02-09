@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>taskCalculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="optional">
+    <div class="slidecontainer">
+      <p class="optional__textStorage">Storage: 0Gb</p>
+      <input
+        type="range"
+        min="0"
+        max="1000"
+        value="0"
+        step="1"
+        class="slider"
+        id="myRangeStorage"
+      >
+    </div>
+    <div class="slidecontainer">
+      <p class="optional__textTranfer">Transfer: 0Gb</p>
+      <input
+        type="range"
+        min="0"
+        max="1000"
+        step="1"
+        value="0"
+        class="slider"
+        id="myRangeTransfer"
+      >
+    </div>
+  </div>
+
+  <div class="visual">
+      <div class="visual__backblaze">
+        <p class="backblazeCoastText"></p>
+      </div>
+      <div class="visual__bunny">
+        <p class="bunnyCoastText"></p>
+      </div>
+      <div class="visual__scaleway">
+        <p class="scaleawayCoastText"></p>
+      </div>
+      <div class="visual__vultr">
+        <p class="vultrCoastText"></p>
+      </div>
+  </div>
+
+  <div class="visual__logos">
+    <div>
+      <img class="icon" src="./icons/backblaze.png" alt="Backblaze icon">
+      <p class="icon__text">Backblaze</p>
+    </div>
+    <div>
+      <img class="icon"  src="./icons/bunny.webp" alt="Bunny icon">
+      <p class="icon__text">Bunny</p>
+      <form class="radioBunny">
+        <span>
+          <input
+            type="radio"
+            id="bunnyHdd"
+            value="HDD"
+            name="bunnyOption"
+          >
+          <label for="bunnyHdd">HDD</label>
+
+          <input
+            type="radio"
+            id="bunnySdd"
+            value="SDD"
+            name="bunnyOption"
+          >
+          <label for="bunnySdd">SDD</label>
+        </span>
+      </form>
+    </div>
+    <div>
+      <img class="icon"  src="./icons/scaleaway.png" alt="Scaleway icon">
+      <p class="icon__text">scaleway</p>
+      <form class="radioScaleaway">
+        <span>
+          <input
+            type="radio"
+            id="scaleawayMulti"
+            value="Multi"
+            name="scaleawayOption"
+          >
+          <label for="scaleawayMulti">Multi</label>
+
+          <input
+            type="radio"
+            id="scaleawaySingle"
+            value="Single"
+            name="scaleawayOption"
+          >
+          <label for="scaleawaySingle">Single</label>
+        </span>
+      </form>
+    </div>
+    <div>
+      <img class="icon"  src="./icons/vultr.png" alt="Vultr icon">
+      <p class="icon__text">Vultr</p>
+    </div>
+  </div>
+
+
+
+  <!-- <script type="module" src="./script.js"></script> -->
+</body>
+</html>
