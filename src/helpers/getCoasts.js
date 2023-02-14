@@ -21,6 +21,7 @@ import {
 } from '../variables.js';
 
 export function getCoasts () {
+
   vars.backblazeCoast =
     backblazeMinPrice +
     (vars.storageValue * backblazeStorage1GbPrice) +

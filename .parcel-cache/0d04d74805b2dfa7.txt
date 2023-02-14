@@ -132,7 +132,7 @@
 68C:\Robota\taskCalculator\project\node_modules\is-date-object\.github133204339814618776 1
 49C:\Robota\taskCalculator\project\.stylelintignore121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\which-typed-array\package.json133204339866921215 0
-45C:\Robota\taskCalculator\project\package.json133204352310636307 0
+45C:\Robota\taskCalculator\project\package.json133204351743277043 0
 70C:\Robota\taskCalculator\project\node_modules\@trysound\sax\lib\sax.js121436361000000000 0
 95C:\Robota\taskCalculator\project\node_modules\resolve\test\resolver\other_path\lib\other-lib.js121436361000000000 0
 78C:\Robota\taskCalculator\project\node_modules\resolve\test\resolver\cup.coffee121436361000000000 0
