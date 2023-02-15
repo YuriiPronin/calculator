@@ -1,4 +1,4 @@
-9721
+9760
 80C:\Robota\taskCalculator\project\node_modules\lines-and-columns\build\index.d.ts121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\DaysInYear.js121436361000000000 0
 75C:\Robota\taskCalculator\project\node_modules\es-abstract\2016\IsPromise.js121436361000000000 0
@@ -99,7 +99,7 @@
 72C:\Robota\taskCalculator\project\node_modules\es-abstract\2021\ToInt8.js121436361000000000 0
 66C:\Robota\taskCalculator\project\node_modules\path-exists\index.js121436361000000000 0
 69C:\Robota\taskCalculator\project\node_modules\typed-array-length\test133204339799005480 1
-46C:\Robota\taskCalculator\project\.editorconfig121436361000000000 0
+46C:\Robota\taskCalculator\project\.editorconfig133208487698342424 0
 90C:\Robota\taskCalculator\project\node_modules\eslint\lib\source-code\token-store\cursor.js121436361000000000 0
 93C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\css-width-stretch.js121436361000000000 0
 45C:\Robota\taskCalculator\project\.eslintrc.js121436361000000000 0
@@ -109,7 +109,7 @@
 73C:\Robota\taskCalculator\project\node_modules\source-map\lib\array-set.js131411568470000000 0
 89C:\Robota\taskCalculator\project\node_modules\eslint-plugin-es\lib\rules\no-math-trunc.js121436361000000000 0
 60C:\Robota\taskCalculator\project\node_modules\async\queue.js121436361000000000 0
-37C:\Robota\taskCalculator\project\dist133204355680442260 1
+37C:\Robota\taskCalculator\project\dist133209274798132947 1
 69C:\Robota\taskCalculator\project\node_modules\text-table\package.json133204339868247545 0
 67C:\Robota\taskCalculator\project\node_modules\ajv\scripts\bundle.js121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\eslint-plugin-import\lib\rules133204339805355867 1
@@ -217,7 +217,7 @@
 100C:\Robota\taskCalculator\project\node_modules\@swc\helpers\lib\_class_static_private_field_update.js133133340060000000 0
 95C:\Robota\taskCalculator\project\node_modules\eslint-plugin-n\lib\rules\no-hide-core-modules.js121436361000000000 0
 57C:\Robota\taskCalculator\project\node_modules\flatted\esm133204339816824996 1
-47C:\Robota\taskCalculator\project\src\index.html133204333614156931 0
+47C:\Robota\taskCalculator\project\src\index.html133205102526991000 0
 73C:\Robota\taskCalculator\project\node_modules\is-boolean-object\.eslintrc121436361000000000 0
 46C:\Robota\taskCalculator\project\src\script.js133203541221811801 0
 74C:\Robota\taskCalculator\project\node_modules\yaml\browser\types\binary.js121436361000000000 0
@@ -229,7 +229,7 @@
 66C:\Robota\taskCalculator\project\node_modules\which\bin\node-which121436361000000000 0
 70C:\Robota\taskCalculator\project\node_modules\nth-check\lib\parse.d.ts121436361000000000 0
 65C:\Robota\taskCalculator\project\node_modules\graceful-fs\LICENSE121436361000000000 0
-46C:\Robota\taskCalculator\project\src\style.css133203548922857811 0
+46C:\Robota\taskCalculator\project\src\style.css133208494148835470 0
 82C:\Robota\taskCalculator\project\node_modules\utility-types\dist\mapped-types.d.ts121436361000000000 0
 79C:\Robota\taskCalculator\project\node_modules\es-abstract\2017\IsPropertyKey.js121436361000000000 0
 89C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\ambient-light.js121436361000000000 0
@@ -262,7 +262,7 @@
 94C:\Robota\taskCalculator\project\node_modules\eslint-plugin-es\lib\rules\no-number-parseint.js121436361000000000 0
 68C:\Robota\taskCalculator\project\node_modules\pinkie-promise\license131047834210000000 0
 76C:\Robota\taskCalculator\project\node_modules\nth-check\lib\esm\parse.js.map121436361000000000 0
-57C:\Robota\taskCalculator\project\src\helpers\getCoasts.js133203516877977916 0
+57C:\Robota\taskCalculator\project\src\helpers\getCoasts.js133205109913715011 0
 74C:\Robota\taskCalculator\project\node_modules\array.prototype.flat\LICENSE121436361000000000 0
 88C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\magnetometer.js121436361000000000 0
 61C:\Robota\taskCalculator\project\src\helpers\setCoastTexts.js133203550171811465 0
@@ -761,6 +761,7 @@
 53C:\Robota\taskCalculator\project\node_modules\pkg-dir133204339869827378 1
 78C:\Robota\taskCalculator\project\node_modules\es-abstract\2016\HourFromTime.js121436361000000000 0
 77C:\Robota\taskCalculator\project\node_modules\terser\lib\compress\evaluate.js121436361000000000 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\5d\b494f52a0f09fe1f45ef9526649f74023bef69133208542864873956 0
 60C:\Robota\taskCalculator\project\node_modules\find-cache-dir133204339868727528 1
 62C:\Robota\taskCalculator\project\node_modules\semver\range.bnf121436361000000000 0
 64C:\Robota\taskCalculator\project\node_modules\js-tokens\index.js131616141900000000 0
@@ -1181,7 +1182,7 @@
 75C:\Robota\taskCalculator\project\node_modules\has-property-descriptors\test133204339815098842 1
 71C:\Robota\taskCalculator\project\node_modules\msgpackr\dist\test.js.map121436361000000000 0
 66C:\Robota\taskCalculator\project\node_modules\chalk\source\util.js121436361000000000 0
-47C:\Robota\taskCalculator\project\dist\script.js133204355680442260 0
+47C:\Robota\taskCalculator\project\dist\script.js133209274798023014 0
 71C:\Robota\taskCalculator\project\node_modules\lines-and-columns\LICENSE121436361000000000 0
 77C:\Robota\taskCalculator\project\node_modules\weak-lru-cache\rollup.config.js121436361000000000 0
 65C:\Robota\taskCalculator\project\node_modules\object-inspect\test133204339810007019 1
@@ -1639,6 +1640,7 @@
 62C:\Robota\taskCalculator\project\node_modules\minimist\.github133204339811514335 1
 72C:\Robota\taskCalculator\project\node_modules\prettier\parser-glimmer.js121436361000000000 0
 75C:\Robota\taskCalculator\project\node_modules\es-abstract\helpers\reduce.js121436361000000000 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\5f\f7aa8d9be71541328b5604e8905a1088d2c02a133208542865990772 0
 70C:\Robota\taskCalculator\project\node_modules\xxhash-wasm\package.json133204339866761200 0
 61C:\Robota\taskCalculator\project\node_modules\xxhash-wasm\umd133204339795601459 1
 85C:\Robota\taskCalculator\project\node_modules\es-abstract\2021\IsSharedArrayBuffer.js121436361000000000 0
@@ -1848,6 +1850,7 @@
 100C:\Robota\taskCalculator\project\node_modules\@parcel\workers\test\integration\workerfarm\console.js121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\tsconfig-paths\src\register.ts132908202860000000 0
 71C:\Robota\taskCalculator\project\node_modules\uri-js\dist\esnext\uri.js121436361000000000 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\1f\b355a02fb0d64e3700f8a2ecd6cf14d8349f42133208542864561473 0
 105C:\Robota\taskCalculator\project\node_modules\resolve\test\resolver\multirepo\packages\package-a\index.js121436361000000000 0
 90C:\Robota\taskCalculator\project\node_modules\@parcel\transformer-postcss\lib\constants.js121436361000000000 0
 68C:\Robota\taskCalculator\project\node_modules\svgo\lib\svgo\tools.js121436361000000000 0
@@ -1873,6 +1876,7 @@
 73C:\Robota\taskCalculator\project\node_modules\object-inspect\test\deep.js121436361000000000 0
 105C:\Robota\taskCalculator\project\node_modules\eslint-plugin-import\docs\rules\no-webpack-loader-syntax.md121436361000000000 0
 79C:\Robota\taskCalculator\project\node_modules\uri-js\dist\esnext\schemes\wss.js121436361000000000 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\50133208542866408979 1
 79C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\require-jsdoc.js121436361000000000 0
 81C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\fetch.js121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\async\internal\setImmediate.js121436361000000000 0
@@ -1883,6 +1887,7 @@
 88C:\Robota\taskCalculator\project\node_modules\terser\node_modules\commander\package.json133204339868327473 0
 93C:\Robota\taskCalculator\project\node_modules\@parcel\core\src\requests\WriteBundleRequest.js121436361000000000 0
 56C:\Robota\taskCalculator\project\node_modules\parcel\src133204339790761979 1
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\98\19d769d921c9eabced7b3e2567164dd9e49cf0133208542866632100 0
 83C:\Robota\taskCalculator\project\node_modules\uri-js\dist\esnext\schemes\wss.js.map121436361000000000 0
 67C:\Robota\taskCalculator\project\node_modules\has-bigints\.eslintrc121436361000000000 0
 70C:\Robota\taskCalculator\project\node_modules\fast-deep-equal\index.js121436361000000000 0
@@ -2015,7 +2020,7 @@
 96C:\Robota\taskCalculator\project\node_modules\eslint-plugin-promise\rules\lib\promise-statics.js121436361000000000 0
 72C:\Robota\taskCalculator\project\node_modules\@lezer\lr\dist\decode.d.ts121436361000000000 0
 69C:\Robota\taskCalculator\project\node_modules\optionator\lib\index.js121436361000000000 0
-160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\b2\b7d0492d627b62fdd3e8028d819840d324ac6c133204355920699578 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\b2\b7d0492d627b62fdd3e8028d819840d324ac6c133208542870222179 0
 66C:\Robota\taskCalculator\project\node_modules\graceful-fs\clone.js121436361000000000 0
 125C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\COMMIT_EDITMSG133204350865008486 0
 98C:\Robota\taskCalculator\project\node_modules\tsconfig-paths\src\__tests__\tsconfig-loader.test.ts132908202860000000 0
@@ -2043,7 +2048,7 @@
 97C:\Robota\taskCalculator\project\node_modules\eslint-plugin-n\node_modules\semver\functions\gt.js121436361000000000 0
 68C:\Robota\taskCalculator\project\node_modules\tsconfig-paths\LICENSE132908202860000000 0
 86C:\Robota\taskCalculator\project\node_modules\node-gyp-build-optional-packages\LICENSE121436361000000000 0
-160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\ff\78d1e16bacce522fb04b0cb89b0034b8ca0f82133204355920729590 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\ff\78d1e16bacce522fb04b0cb89b0034b8ca0f82133208542870252182 0
 94C:\Robota\taskCalculator\project\node_modules\eslint-plugin-import\docs\rules\no-duplicates.md121436361000000000 0
 80C:\Robota\taskCalculator\project\node_modules\es-abstract\helpers\isByteValue.js121436361000000000 0
 73C:\Robota\taskCalculator\project\node_modules\tsconfig-paths\package.json133204339867321245 0
@@ -2106,6 +2111,7 @@
 70C:\Robota\taskCalculator\project\node_modules\has-tostringtag\shams.js121436361000000000 0
 98C:\Robota\taskCalculator\project\node_modules\tsconfig-paths\src\__tests__\data\match-path-data.ts132908203410000000 0
 93C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\CreateAsyncFromSyncIterator.js121436361000000000 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\90\2a3f72411575aeb0ab6300893b2ab23c13a203133208542866975862 0
 68C:\Robota\taskCalculator\project\node_modules\object-assign\index.js131290544330000000 0
 78C:\Robota\taskCalculator\project\node_modules\es-abstract\2020\YearFromTime.js121436361000000000 0
 74C:\Robota\taskCalculator\project\node_modules\fastq\.github\dependabot.yml121436361000000000 0
@@ -2398,7 +2404,7 @@
 88C:\Robota\taskCalculator\project\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js121436361000000000 0
 66C:\Robota\taskCalculator\project\node_modules\terser\lib\minify.js121436361000000000 0
 85C:\Robota\taskCalculator\project\node_modules\es-abstract\2020\BigInt\exponentiate.js121436361000000000 0
-128C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\index.0f116d4d.css.map133204355920409513 0
+128C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\index.0f116d4d.css.map133208542869942199 0
 79C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\IsPropertyKey.js121436361000000000 0
 126C:\Robota\taskCalculator\project\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133204339875978624 0
 94C:\Robota\taskCalculator\project\node_modules\eslint-module-utils\node_modules\debug\README.md121436361000000000 0
@@ -2419,6 +2425,7 @@
 76C:\Robota\taskCalculator\project\node_modules\object-inspect\readme.markdown121436361000000000 0
 69C:\Robota\taskCalculator\project\node_modules\terser\lib\transform.js121436361000000000 0
 82C:\Robota\taskCalculator\project\node_modules\es-abstract\2021\Number\sameValue.js121436361000000000 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\cc133208542865699354 1
 71C:\Robota\taskCalculator\project\node_modules\terser\lib\utils\index.js121436361000000000 0
 77C:\Robota\taskCalculator\project\node_modules\eslint\lib\shared\directives.js121436361000000000 0
 81C:\Robota\taskCalculator\project\node_modules\es-abstract\2021\Number\toString.js121436361000000000 0
@@ -2585,7 +2592,7 @@
 76C:\Robota\taskCalculator\project\node_modules\@parcel\core\src\assetUtils.js121436361000000000 0
 103C:\Robota\taskCalculator\project\node_modules\js-sdsl\dist\cjs\container\SequentialContainer\Deque.d.ts133186589390000000 0
 68C:\Robota\taskCalculator\project\node_modules\deep-is\example\cmp.js121436361000000000 0
-128C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\scaleaway.3838ed66.png133204355920409513 0
+128C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\scaleaway.3838ed66.png133208542869952217 0
 75C:\Robota\taskCalculator\project\node_modules\svgo\plugins\removeViewBox.js121436361000000000 0
 79C:\Robota\taskCalculator\project\node_modules\svgo\plugins\removeXMLProcInst.js121436361000000000 0
 69C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\Day.js121436361000000000 0
@@ -2900,6 +2907,7 @@
 87C:\Robota\taskCalculator\project\node_modules\reusify\benchmarks\reuseNoCodeFunction.js131614317850000000 0
 103C:\Robota\taskCalculator\project\node_modules\js-sdsl\dist\esm\container\SequentialContainer\Deque.d.ts133186589460000000 0
 68C:\Robota\taskCalculator\project\node_modules\locate-path\index.d.ts121436361000000000 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\cc\02063be9edd09cb8a81423837f6dd475ffa2a6133208542865699354 0
 83C:\Robota\taskCalculator\project\node_modules\@parcel\runtime-js\lib\helpers\worker133204339801790621 1
 63C:\Robota\taskCalculator\project\node_modules\path-type\license121436361000000000 0
 100C:\Robota\taskCalculator\project\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json121436361000000000 0
@@ -3000,7 +3008,7 @@
 78C:\Robota\taskCalculator\project\node_modules\resolve\test\resolver\false_main133204339826082631 1
 68C:\Robota\taskCalculator\project\node_modules\lmdb\dependencies\lmdb133204339798678447 1
 101C:\Robota\taskCalculator\project\node_modules\eslint-plugin-n\lib\rules\prefer-global\text-encoder.js121436361000000000 0
-120C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\logs\HEAD133204355919939397 0
+120C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\logs\HEAD133208542869407451 0
 92C:\Robota\taskCalculator\project\node_modules\dom-serializer\node_modules\entities\readme.md121436361000000000 0
 74C:\Robota\taskCalculator\project\node_modules\resolve\test\resolver\foo.js121436361000000000 0
 64C:\Robota\taskCalculator\project\node_modules\@parcel\fs\LICENSE121436361000000000 0
@@ -3051,6 +3059,7 @@
 103C:\Robota\taskCalculator\project\node_modules\resolve\test\resolver\symlinked\_\symlink_target\.gitkeep121436361000000000 0
 61C:\Robota\taskCalculator\project\node_modules\lmdb\caching.js121436361000000000 0
 78C:\Robota\taskCalculator\project\node_modules\resolve\test\pathfilter\deep_ref133204339823843965 1
+140C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\logs\refs\remotes\origin\main133208542867407906 0
 79C:\Robota\taskCalculator\project\node_modules\escape-string-regexp\package.json133204339873133398 0
 92C:\Robota\taskCalculator\project\node_modules\eslint\lib\cli-engine\formatters\jslint-xml.js121436361000000000 0
 78C:\Robota\taskCalculator\project\node_modules\es-abstract\2015\ToUint8Clamp.js121436361000000000 0
@@ -3271,7 +3280,7 @@
 69C:\Robota\taskCalculator\project\node_modules\prettier\third-party.js121436361000000000 0
 77C:\Robota\taskCalculator\project\node_modules\prettier\esm\parser-angular.mjs121436361000000000 0
 75C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\GetMethod.js121436361000000000 0
-117C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\config133204355921349720 0
+117C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\config133208542870841755 0
 84C:\Robota\taskCalculator\project\node_modules\@jridgewell\sourcemap-codec\dist\types133204339789494437 1
 98C:\Robota\taskCalculator\project\node_modules\eslint-plugin-n\node_modules\semver\functions\inc.js121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\prettier\esm\parser-espree.mjs121436361000000000 0
@@ -3451,6 +3460,7 @@
 69C:\Robota\taskCalculator\project\node_modules\parent-module\readme.md121436361000000000 0
 88C:\Robota\taskCalculator\project\node_modules\es-abstract\2021\OrdinarySetPrototypeOf.js121436361000000000 0
 56C:\Robota\taskCalculator\project\node_modules\parcel\lib133204339790041904 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\04133208542867115626 1
 64C:\Robota\taskCalculator\project\node_modules\micromatch\LICENSE121436361000000000 0
 90C:\Robota\taskCalculator\project\node_modules\eslint-plugin-n\lib\util\check-restricted.js121436361000000000 0
 67C:\Robota\taskCalculator\project\node_modules\has-bigints\README.md121436361000000000 0
@@ -4500,7 +4510,6 @@
 97C:\Robota\taskCalculator\project\node_modules\eslint-plugin-import\docs\rules\max-dependencies.md121436361000000000 0
 67C:\Robota\taskCalculator\project\node_modules\is-number-object\test133204339812754666 1
 76C:\Robota\taskCalculator\project\node_modules\is-number-object\test\index.js121436361000000000 0
-57C:\Robota\taskCalculator\project\dist\bunny.c3a31f6d.webp133204340275956818 0
 86C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\no-restricted-syntax.js121436361000000000 0
 64C:\Robota\taskCalculator\project\node_modules\is-number\index.js121436361000000000 0
 90C:\Robota\taskCalculator\project\node_modules\eslint-plugin-es\lib\rules\no-promise-any.js121436361000000000 0
@@ -4709,7 +4718,7 @@
 74C:\Robota\taskCalculator\project\node_modules\es-abstract\2016\IsRegExp.js121436361000000000 0
 84C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\prefer-rest-params.js121436361000000000 0
 70C:\Robota\taskCalculator\project\node_modules\css-tree\lib\syntax\node133204339823082869 1
-135C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\logs\refs\remotes\origin133204340474538450 1
+135C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\logs\refs\remotes\origin133208542867407906 1
 83C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\init-declarations.js121436361000000000 0
 78C:\Robota\taskCalculator\project\node_modules\htmlparser2\lib\FeedHandler.d.ts121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\htmlparser2\lib\FeedHandler.js121436361000000000 0
@@ -4749,6 +4758,7 @@
 102C:\Robota\taskCalculator\project\node_modules\htmlnano\node_modules\cosmiconfig\dist\ExplorerBase.d.ts121436361000000000 0
 63C:\Robota\taskCalculator\project\node_modules\flatted\README.md121436361000000000 0
 104C:\Robota\taskCalculator\project\node_modules\htmlnano\node_modules\cosmiconfig\dist\ExplorerBase.js.map121436361000000000 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\1c\19466d6d6141b5cc00fc13d89fb1411ce4df83133208542866892110 0
 82C:\Robota\taskCalculator\project\node_modules\@parcel\package-manager\package.json133204339865494827 0
 102C:\Robota\taskCalculator\project\node_modules\htmlnano\node_modules\cosmiconfig\dist\ExplorerSync.d.ts121436361000000000 0
 89C:\Robota\taskCalculator\project\node_modules\eslint-plugin-es\lib\rules\no-math-asinh.js121436361000000000 0
@@ -5161,7 +5171,7 @@
 68C:\Robota\taskCalculator\project\node_modules\fs-extra\lib\copy-sync133204339799864109 1
 106C:\Robota\taskCalculator\project\node_modules\@swc\helpers\src\_class_static_private_field_destructure.mjs133056521790000000 0
 64C:\Robota\taskCalculator\project\node_modules\fs-extra\lib\empty133204339800945124 1
-116C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\index133204355920859629 0
+116C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\index133208542870362222 0
 61C:\Robota\taskCalculator\project\node_modules\fs-extra\lib\fs133204339802185757 1
 63C:\Robota\taskCalculator\project\node_modules\fs-extra\lib\json133204339802985849 1
 78C:\Robota\taskCalculator\project\node_modules\electron-to-chromium\versions.js121436361000000000 0
@@ -5591,7 +5601,7 @@
 79C:\Robota\taskCalculator\project\node_modules\eslint-plugin-import\lib\index.js121436361000000000 0
 78C:\Robota\taskCalculator\project\node_modules\es-shim-unscopables\package.json133204339872653340 0
 84C:\Robota\taskCalculator\project\node_modules\es-abstract\2021\ValidateTypedArray.js121436361000000000 0
-115C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\script.js133204355920409513 0
+115C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\script.js133208542869952217 0
 111C:\Robota\taskCalculator\project\node_modules\eslint-plugin-import\lib\rules\consistent-type-specifier-style.js121436361000000000 0
 85C:\Robota\taskCalculator\project\node_modules\eslint-plugin-import\lib\rules\first.js121436361000000000 0
 68C:\Robota\taskCalculator\project\node_modules\concat-map\.travis.yml129836033370000000 0
@@ -5936,7 +5946,7 @@
 88C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\lines-around-directive.js121436361000000000 0
 89C:\Robota\taskCalculator\project\node_modules\es-abstract\2021\CreateListFromArrayLike.js121436361000000000 0
 86C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\max-classes-per-file.js121436361000000000 0
-127C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\index.8b6dfef8.js.map133204355920409513 0
+127C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\index.8b6dfef8.js.map133208542869952217 0
 75C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\max-depth.js121436361000000000 0
 92C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\getcomputedstyle.js121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\max-params.js121436361000000000 0
@@ -6042,7 +6052,6 @@
 87C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\no-unused-expressions.js121436361000000000 0
 86C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\no-use-before-define.js121436361000000000 0
 75C:\Robota\taskCalculator\project\node_modules\es-abstract\2020\SameValue.js121436361000000000 0
-48C:\Robota\taskCalculator\project\dist\index.html133204340294376363 0
 81C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\no-useless-call.js121436361000000000 0
 82C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\no-useless-catch.js121436361000000000 0
 83C:\Robota\taskCalculator\project\node_modules\eslint\lib\rules\no-useless-concat.js121436361000000000 0
@@ -6152,6 +6161,7 @@
 69C:\Robota\taskCalculator\project\node_modules\escalade\dist\index.mjs121436361000000000 0
 107C:\Robota\taskCalculator\project\node_modules\@parcel\optimizer-image\parcel-image.linux-arm-gnueabihf.node121436361000000000 0
 82C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\CompletionRecord.js121436361000000000 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\1a133208542865834428 1
 71C:\Robota\taskCalculator\project\node_modules\es-to-primitive\.eslintrc121436361000000000 0
 73C:\Robota\taskCalculator\project\node_modules\es-to-primitive\.travis.yml121436361000000000 0
 74C:\Robota\taskCalculator\project\node_modules\es-to-primitive\CHANGELOG.md121436361000000000 0
@@ -6968,6 +6978,7 @@
 78C:\Robota\taskCalculator\project\node_modules\css-tree\lib\generator\create.js121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\es-abstract\2019\msFromTime.js121436361000000000 0
 80C:\Robota\taskCalculator\project\node_modules\es-abstract\2019\NumberToString.js121436361000000000 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\03133208542866965870 1
 78C:\Robota\taskCalculator\project\node_modules\es-abstract\2019\ObjectCreate.js121436361000000000 0
 85C:\Robota\taskCalculator\project\node_modules\es-abstract\2019\OrdinaryHasProperty.js121436361000000000 0
 81C:\Robota\taskCalculator\project\node_modules\es-abstract\2019\QuoteJSONString.js121436361000000000 0
@@ -7026,6 +7037,7 @@
 94C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\AbstractRelationalComparison.js121436361000000000 0
 65C:\Robota\taskCalculator\project\node_modules\debug\src\common.js121436361000000000 0
 70C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\Call.js121436361000000000 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\92133208542866882099 1
 84C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\CopyDataProperties.js121436361000000000 0
 91C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\CreateDataPropertyOrThrow.js121436361000000000 0
 95C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\hardwareconcurrency.js121436361000000000 0
@@ -7127,6 +7139,7 @@
 89C:\Robota\taskCalculator\project\node_modules\@parcel\optimizer-svgo\src\SVGOOptimizer.js121436361000000000 0
 77C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\ToPrimitive.js121436361000000000 0
 69C:\Robota\taskCalculator\project\node_modules\ajv\lib\dotjs\_limit.js121436361000000000 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\50\fd912404fff5070554989f2b693cf06cf178a9133208542866252644 0
 74C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\ToUint16.js121436361000000000 0
 74C:\Robota\taskCalculator\project\node_modules\@jridgewell\resolve-uri\dist133204339789014477 1
 73C:\Robota\taskCalculator\project\node_modules\es-abstract\2018\ToUint8.js121436361000000000 0
@@ -7429,7 +7442,7 @@
 73C:\Robota\taskCalculator\project\node_modules\es-abstract\2015\ToUint8.js121436361000000000 0
 70C:\Robota\taskCalculator\project\node_modules\es-abstract\2015\Type.js121436361000000000 0
 68C:\Robota\taskCalculator\project\node_modules\caniuse-lite\README.md121436361000000000 0
-116C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\index.html133204355920409513 0
+116C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\index.html133208542869952217 0
 100C:\Robota\taskCalculator\project\node_modules\es-abstract\2015\ValidateAndApplyPropertyDescriptor.js121436361000000000 0
 80C:\Robota\taskCalculator\project\node_modules\caniuse-lite\dist\lib\supported.js121436361000000000 0
 86C:\Robota\taskCalculator\project\node_modules\@parcel\transformer-js\lib\loadNative.js121436361000000000 0
@@ -7512,6 +7525,7 @@
 81C:\Robota\taskCalculator\project\node_modules\domelementtype\lib\esm\package.json121436361000000000 0
 64C:\Robota\taskCalculator\project\node_modules\dom-serializer\lib133204339820838358 1
 68C:\Robota\taskCalculator\project\node_modules\dom-serializer\LICENSE121436361000000000 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\5d133208542866408979 1
 73C:\Robota\taskCalculator\project\node_modules\dom-serializer\package.json133204339873373415 0
 96C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js121436361000000000 0
 70C:\Robota\taskCalculator\project\node_modules\dom-serializer\README.md121436361000000000 0
@@ -8236,7 +8250,7 @@
 80C:\Robota\taskCalculator\project\node_modules\array.prototype.flat\.editorconfig121436361000000000 0
 86C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\use-strict.js121436361000000000 0
 92C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\user-select-none.js121436361000000000 0
-105C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git133204355920379506 1
+105C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git133208542869922207 1
 99C:\Robota\taskCalculator\project\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc121436361000000000 0
 90C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\variable-fonts.js121436361000000000 0
 89C:\Robota\taskCalculator\project\node_modules\caniuse-lite\data\features\vector-effect.js121436361000000000 0
@@ -8720,6 +8734,7 @@
 80C:\Robota\taskCalculator\project\node_modules\@parcel\utils\src\shared-buffer.js121436361000000000 0
 85C:\Robota\taskCalculator\project\node_modules\@parcel\transformer-babel\lib\babel7.js121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\@parcel\utils\src\sourcemap.js121436361000000000 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\ac\81e4e778a840e80f84bafe66dcd54bc57e153f133208542866408979 0
 76C:\Robota\taskCalculator\project\node_modules\@parcel\utils\src\TapStream.js121436361000000000 0
 75C:\Robota\taskCalculator\project\node_modules\@parcel\utils\src\throttle.js121436361000000000 0
 67C:\Robota\taskCalculator\project\node_modules\@parcel\types\LICENSE121436361000000000 0
@@ -8753,6 +8768,7 @@
 87C:\Robota\taskCalculator\project\node_modules\@parcel\transformer-posthtml\node_modules133204339875418646 1
 78C:\Robota\taskCalculator\project\node_modules\@parcel\transformer-posthtml\src133204339791840525 1
 93C:\Robota\taskCalculator\project\node_modules\@parcel\transformer-posthtml\src\loadPlugins.js121436361000000000 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\89133208542866206071 1
 105C:\Robota\taskCalculator\project\node_modules\@parcel\transformer-posthtml\node_modules\semver\bin\semver121436361000000000 0
 111C:\Robota\taskCalculator\project\node_modules\@parcel\transformer-posthtml\node_modules\posthtml-parser\license121436361000000000 0
 116C:\Robota\taskCalculator\project\node_modules\@parcel\transformer-posthtml\node_modules\posthtml-parser\package.json133204339871933256 0
@@ -9186,6 +9202,7 @@
 79C:\Robota\taskCalculator\project\node_modules\@parcel\graph\lib\ContentGraph.js121436361000000000 0
 72C:\Robota\taskCalculator\project\node_modules\@parcel\graph\lib\Graph.js121436361000000000 0
 72C:\Robota\taskCalculator\project\node_modules\@parcel\graph\lib\index.js121436361000000000 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\04\165394bfb9c42a61aaf2d56f11b539b0f9ef1b133208542867085633 0
 91C:\Robota\taskCalculator\project\node_modules\@parcel\fs-search\fs-search.darwin-arm64.node121436361000000000 0
 89C:\Robota\taskCalculator\project\node_modules\@parcel\fs-search\fs-search.darwin-x64.node121436361000000000 0
 94C:\Robota\taskCalculator\project\node_modules\@parcel\fs-search\fs-search.linux-arm64-gnu.node121436361000000000 0
@@ -9314,6 +9331,7 @@
 87C:\Robota\taskCalculator\project\node_modules\@parcel\core\src\requests\EntryRequest.js121436361000000000 0
 86C:\Robota\taskCalculator\project\node_modules\@parcel\core\src\requests\PathRequest.js121436361000000000 0
 88C:\Robota\taskCalculator\project\node_modules\@parcel\core\src\requests\TargetRequest.js121436361000000000 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\5f133208542865990772 1
 92C:\Robota\taskCalculator\project\node_modules\@parcel\core\src\requests\ValidationRequest.js121436361000000000 0
 79C:\Robota\taskCalculator\project\node_modules\@parcel\core\src\public\Bundle.js121436361000000000 0
 84C:\Robota\taskCalculator\project\node_modules\@parcel\core\src\public\BundleGraph.js121436361000000000 0
@@ -9430,7 +9448,6 @@
 66C:\Robota\taskCalculator\project\node_modules\@nodelib\fs.stat\out133204339791200453 1
 75C:\Robota\taskCalculator\project\node_modules\@nodelib\fs.stat\out\index.js121436361000000000 0
 76C:\Robota\taskCalculator\project\node_modules\@nodelib\fs.stat\out\providers133204339791280457 1
-60C:\Robota\taskCalculator\project\dist\backblaze.bcb949b2.png133204340278342488 0
 72C:\Robota\taskCalculator\project\node_modules\@nodelib\fs.stat\out\types133204339791120549 1
 83C:\Robota\taskCalculator\project\node_modules\@nodelib\fs.stat\out\types\index.d.ts121436361000000000 0
 81C:\Robota\taskCalculator\project\node_modules\@nodelib\fs.stat\out\types\index.js121436361000000000 0
@@ -9523,6 +9540,7 @@
 81C:\Robota\taskCalculator\project\node_modules\@jridgewell\source-map\package.json133204339863588546 0
 78C:\Robota\taskCalculator\project\node_modules\@jridgewell\source-map\README.md121436361000000000 0
 82C:\Robota\taskCalculator\project\node_modules\.bin\download-msgpackr-prebuilds.ps1133204339875978624 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\1f133208542864717691 1
 92C:\Robota\taskCalculator\project\node_modules\@jridgewell\source-map\dist\source-map.mjs.map121436361000000000 0
 91C:\Robota\taskCalculator\project\node_modules\@jridgewell\source-map\dist\source-map.umd.js121436361000000000 0
 86C:\Robota\taskCalculator\project\node_modules\@jridgewell\set-array\dist\set-array.mjs121436361000000000 0
@@ -9620,46 +9638,73 @@
 67C:\Robota\taskCalculator\project\node_modules\@babel\code-frame\lib133204339811194289 1
 76C:\Robota\taskCalculator\project\node_modules\@babel\code-frame\package.json133204339871253226 0
 73C:\Robota\taskCalculator\project\node_modules\@babel\code-frame\README.md121012626000000000 0
-110C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git133204355921359718 1
-128C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\backblaze.bcb949b2.png133204355920399518 0
-125C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\bunny.c3a31f6d.webp133204355920399518 0
-124C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\index.0f116d4d.css133204355920399518 0
-123C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\index.8b6dfef8.js133204355920409513 0
-119C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\script.js.map133204355920409513 0
-124C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\vultr.59077bc2.png133204355920409513 0
+110C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git133208542870841755 1
+128C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\backblaze.bcb949b2.png133208542869942199 0
+125C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\bunny.c3a31f6d.webp133208542869942199 0
+124C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\index.0f116d4d.css133208542869942199 0
+123C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\index.8b6dfef8.js133208542869952217 0
+119C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\script.js.map133208542869952217 0
+124C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\vultr.59077bc2.png133208542869952217 0
 122C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\description133204340409859133 0
-121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\FETCH_HEAD133204355917576355 0
-115C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\HEAD133204355919319269 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\FETCH_HEAD133208542867407906 0
+115C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\HEAD133208542868853485 0
 115C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\info133204340410015389 1
-118C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects133204355917886336 1
+118C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects133208542867564175 1
 120C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\ORIG_HEAD133204355919909384 0
 122C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\packed-refs133204340443406509 0
 115C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\refs133204340443406509 1
-121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\refs\heads133204355919939397 1
-130C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\refs\remotes\origin133204355939898953 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\refs\heads133208542869407451 1
+130C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\refs\remotes\origin133208542882210531 1
 139C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\refs\remotes\origin\gh-pages133204350902320897 0
+135C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\refs\remotes\origin\main133208542867407906 0
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\08133208542864717691 1
 121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\11133204350865162328 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\17133208542864717691 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\1c133208542866922801 1
 121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\30133204350863948246 1
 121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\40133204340454157628 1
 121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\6b133204340452999640 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\6e133208542867044771 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\76133208542864561473 1
 121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\78133204340452843399 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\90133208542867005867 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\98133208542866662046 1
 121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\9a133204350863948246 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\a0133208542867145723 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\ac133208542866408979 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\b3133208542864717691 1
 121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\b5133204340452999640 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\c6133208542867075714 1
 121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\cf133204340452843399 1
 121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\e2133204350865008486 1
+121C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\fe133208542866147146 1
 123C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\pack133204340443565242 1
-174C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\pack\pack-f0b9da14d7ee1090b03f6fa70fd5d0559d986e2a.pack133204355920699578 0
+174C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\pack\pack-f0b9da14d7ee1090b03f6fa70fd5d0559d986e2a.pack133208542870222179 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\fe\b9228905ddc161bcc303bd85804864e1a2a2bf133208542865990772 0
 160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\e2\7867a78c02993849b70cfa04172ce74785e833133204350865008486 0
 62C:\Robota\taskCalculator\project\node_modules\.bin\detect-libc133204339875578588 0
-160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\cf\fe466c95364e5f892e1903b6cd7aea0d2f5862133204355920729590 0
-160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\b5\d3fa2ec24361e4cd282f3ba8dfbd032fc9dba1133204355920789592 0
-160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\9a\3a579006616ed33c0581d0d239b8ffb39f880f133204355920859629 0
-160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\78\f0ebcf61046525e470b8fd12ed75a2136fdd3c133204355920759593 0
-160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\6b\10670840bdbbf7bbe51c4c287940d74b9954cc133204355920799599 0
-160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\69\0cdcc255c85c848da7f47da6b40c13c2a3029c133204355920769586 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\cf\fe466c95364e5f892e1903b6cd7aea0d2f5862133208542870262216 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\c6\8dea8998b1e97a21f6de225ba9a1e696df6f5e133208542867054772 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\b5\d3fa2ec24361e4cd282f3ba8dfbd032fc9dba1133208542870312191 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\b3\dbd13f5f29ed0fde11acd93d537e367e92109a133208542864717691 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\ac\9b862196fd7a3ba3af035042629bd5b8a625ff133208542866217559 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\a0\cc59f7e23c676bcf020e4375edbba4e6c27fa5133208542867125637 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\9a\3a579006616ed33c0581d0d239b8ffb39f880f133208542870352223 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\92\09d254bffa16e5873a3ef16bafe4616e02bda0133208542866852206 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\89\c0e4d8416a95ca64f3ff91b6ca33e96a5409dc133208542866147146 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\78\f0ebcf61046525e470b8fd12ed75a2136fdd3c133208542870282177 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\76\9cf3cc8dead380e28ff8f8890b34f56142924c133208542864561473 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\6e\f408c11ff32786f4ecc465ed92f5ee28748ab6133208542867014717 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\6b\10670840bdbbf7bbe51c4c287940d74b9954cc133208542870322207 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\69\0cdcc255c85c848da7f47da6b40c13c2a3029c133208542870292209 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\5d\b0a9f119ce30f791f67aa59f8fbf0401233f98133208542866408979 0
 160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\40\8eded5b788c93adf522fb4813701ae6e1b4206133204340454157628 0
-160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\30\518daab39870bb433c828623a63208081fa484133204355920849613 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\30\518daab39870bb433c828623a63208081fa484133208542870352223 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\1a\a2d51b58f0f7b72dff00a1aba4adfd48903911133208542865834428 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\17\83b1fec84dc86e0b31c5329dd88acc646930e5133208542864717691 0
 160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\11\af8d28c0a81902728363bea49e5888c8a04b77133204350865008486 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\08\23d3962e653722c544d73f3a9d5d5201922c58133208542864717691 0
+160C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\objects\03\93089021df9b708b00228c5b2676ea7ddc4072133208542866935834 0
 120C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\logs\refs133204340443565242 1
 123C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\info\exclude133204340410015389 0
 138C:\Robota\taskCalculator\project\node_modules\.cache\gh-pages\https!github.com!YuriiPronin!calculator.git\.git\hooks\applypatch-msg.sample133204340409859133 0
@@ -9711,12 +9756,6 @@
 55C:\Robota\taskCalculator\project\node_modules\.bin\svgo133204339876578050 0
 59C:\Robota\taskCalculator\project\node_modules\.bin\svgo.cmd133204339876578050 0
 61C:\Robota\taskCalculator\project\node_modules\.bin\terser.ps1133204339876578050 0
-56C:\Robota\taskCalculator\project\dist\index.0f116d4d.css133204340294376363 0
-60C:\Robota\taskCalculator\project\dist\index.0f116d4d.css.map133204340294456686 0
-55C:\Robota\taskCalculator\project\dist\index.8b6dfef8.js133204340294376363 0
-59C:\Robota\taskCalculator\project\dist\index.8b6dfef8.js.map133204340294456686 0
-60C:\Robota\taskCalculator\project\dist\scaleaway.3838ed66.png133204340278342488 0
-51C:\Robota\taskCalculator\project\dist\script.js.map133204355680442260 0
-56C:\Robota\taskCalculator\project\dist\vultr.59077bc2.png133204340290318588 0
+51C:\Robota\taskCalculator\project\dist\script.js.map133209274798112982 0
 50C:\Robota\taskCalculator\project\.github\workflows133204193501858623 1
 59C:\Robota\taskCalculator\project\.github\workflows\test.yml121436361000000000 0
